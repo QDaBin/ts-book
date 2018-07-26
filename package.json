@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/QDaBin/ts-book/issues"
   },
-  "homepage": "https://github.com/QDaBin/ts-book#readme"
+  "homepage": "https://github.com/QDaBin/ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^5.0.0-alpha.3"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
